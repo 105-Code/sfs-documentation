@@ -1,0 +1,41 @@
+title: SFS Documentation
+description: Unofficial SFS documentation.
+site_author: By SFS Community
+
+prev_next_buttons_location: bottom
+
+domain: 105-code.github.io
+url: https://105-code.github.io/sfs-documentation/
+baseurl: /sfs-documentation/
+repository: 105-Code/sfs-documentation
+
+lang: en
+
+theme: null
+
+# debug:
+#   compress: true
+#   dist: false
+#   shortcodes: true
+
+readme_index:
+  with_frontmatter: true
+
+plugins:
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
+
+exclude:
+  - Makefile
+  - CNAME
+  - LICENSE
+  - update.sh
+  - Gemfile
+  - vendor
+  - Gemfile.lock
+  - node_modules
+  - package.json
+  - package-lock.json
+  - webpack.config.js
+  - jekyll-rtd-theme.gemspec
