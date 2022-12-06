@@ -3,7 +3,6 @@
     "report": "lighthouse http://127.0.0.1:4000",
     "build": "webpack --mode production",
     "format": "prettier . --check --write",
-    "postinstall": "echo #!/bin/sh >> .git/hooks/pre-commit | echo exec npm run format >> .git/hooks/pre-commit",
     "start": "bundle exec jekyll server --safe --livereload"
   },
   "dependencies": {
