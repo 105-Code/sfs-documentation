@@ -1,4 +1,3 @@
-
 # Rocket
 
 ## Description
@@ -7,36 +6,36 @@ Class description
 
 ## Implementations
 
-| Name      | Description | 
-| --------- | ----------- | 
-|           |             | 
+| Name | Description |
+| ---- | ----------- |
+|      |             |
 
 ## Properties
 
-| Type | Name | Description | 
-| ---- | ---- | ----------- | 
-|      |      |             | 
+| Type | Name | Description |
+| ---- | ---- | ----------- |
+|      |      |             |
 
 ## Public Methods
 
-| Type | Name | Description | 
-| ---- | ---- | ----------- | 
-|      |      |             | 
+| Type | Name | Description |
+| ---- | ---- | ----------- |
+|      |      |             |
 
 ## Private Methods
 
-| Type | Name | Description | 
-| ---- | ---- | ----------- | 
-|      |      |             | 
+| Type | Name | Description |
+| ---- | ---- | ----------- |
+|      |      |             |
 
 ## Static Methods
 
-| Type | Name | Description | 
-| ---- | ---- | ----------- | 
-|      |      |             | 
+| Type | Name | Description |
+| ---- | ---- | ----------- |
+|      |      |             |
 
 ## Interfaces
 
-| Type | Name | Description | 
-| ---- | ---- | ----------- | 
-|      |      |             | 
+| Type | Name | Description |
+| ---- | ---- | ----------- |
+|      |      |             |
